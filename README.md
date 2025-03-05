@@ -27,9 +27,9 @@ A simple web application that allows users to view the current date in various f
 
 ## 🌐 Live Demo
 
-Check out the live demo here: [Date Formatter Demo](https://your-live-demo-link.com)
+Experience the live demo of the Date Formatter project below:
 
-Or visit it directly: [Date Formatter Demo on Glitch](https://ankit-stack-glitch.github.io/date-format-switcher/)
+🔗 **[View Live Demo](https://ankit-stack-glitch.github.io/date-format-switcher/)**
 
 
 ## 🛠 Technologies Used
