@@ -62,11 +62,10 @@ Experience the live demo of the Date Formatter project below:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🔗 Connect
-GitHub: https://github.com/your-username/date-formatter
+GitHub: https://github.com/ANKIT-stack-glitch/date-format-switcher
 
 
-Live Demo: https://your-live-demo-link.com
-
+Live Demo: https://ankit-stack-glitch.github.io/date-format-switcher/
 ## 🤝 Contributing
 
 Feel free to fork the repository, create a pull request, and contribute to the development of this project! All contributions are welcome.
