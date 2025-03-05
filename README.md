@@ -11,7 +11,19 @@ A simple web application that allows users to view the current date in various f
 
 ## 🖼 Screenshot
 
-![Date Formatter Screenshot](./screenshot.png)
+### Screenshot 1
+<img src="https://github.com/user-attachments/assets/0d1288f4-0130-4f06-bc83-cda389f5aae8" width="300"/>
+
+### Screenshot 2
+<img src="https://github.com/user-attachments/assets/20aa3252-3395-44f0-b45e-a390e13e557a" width="300"/>
+
+### Screenshot 3
+<img src="https://github.com/user-attachments/assets/9d81e018-defb-4a17-b2bb-57f57e3874d4" width="300"/>
+
+
+
+
+
 
 ## 🌐 Live Demo
 
